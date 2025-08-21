@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+langchain
+langchain_community
+pypdf
+bs4 # bs4 -- Beatifull_Soup used for web scrapping tasks
+arxiv
+pymupdf
+wikipedia
